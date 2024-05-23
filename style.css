@@ -1014,6 +1014,9 @@ button:hover{
   .contact .contact-container .display h2 {
     text-align: center;
   }
+  #preloader{
+    background-size : 50%;
+  }
 }
 
 @media(max-width : 480px){
