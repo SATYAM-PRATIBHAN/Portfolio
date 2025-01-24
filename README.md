@@ -57,9 +57,9 @@ Here are some of the skills I possess:
 Feel free to reach out to me via:
 
 - **Email:** [satyampratibhan@gmail.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/satyam-pratibhan-578706219/)
-- **Twitter:** [Your Twitter Handle](https://x.com/s_pratibhan)
-- **Personal Portfolio:** [Your Personal Website](https://satyam-pratibhan.github.io/Portfolio/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/satyam-pratibhan-578706219/)
+- **Twitter:** [Twitter Handle](https://x.com/s_pratibhan)
+- **Personal Portfolio:** [Personal Website](https://satyam-pratibhan.github.io/Portfolio/)
 
 
 ---
