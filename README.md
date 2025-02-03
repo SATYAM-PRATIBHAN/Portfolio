@@ -21,7 +21,7 @@ Here are some of the skills I possess:
 - **Programming Languages:** [Java , C , C++ , Python , Javascript]
 - **Web Development:** [e.g., HTML, CSS, React, Node.js]
 - **Database Management:** [MySQL]
-- **Tools & Technologies:** [Git]
+- **Tools & Technologies:** [Git, Docker]
 - **Still Learning Skills:** [e.g., Machine Learning, Data Analysis, UX/UI Design]
 
 ## Projects
